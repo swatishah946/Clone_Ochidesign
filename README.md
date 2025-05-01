@@ -21,14 +21,6 @@ Welcome to the OchiDesign-Showcase! This project is a React Vite app created to 
 
 Check out the live demo [here](https://ochidesign-showcase-app.onrender.com/) to explore the animations and design firsthand.
 
-## Screenshots
-
-Here’s a preview of the project to give you an idea of its animations and layout:
-
-<p align="center">
-  <img src="https://i.ibb.co/9sNqhH3/ochidesign-Showcaseapp-SS.png" alt="MyDesign Showcase Screenshot" width="600px">
-</p>
-
 ## Topics Covered
 
 - ReactJS: Component-based structure for modular design
